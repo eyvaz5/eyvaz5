@@ -1,0 +1,78 @@
+create table employe (
+	id integer primary key ,
+    namess  varchar(50),
+    birtday date ,
+    email varchar(100)
+);
+
+
+insert into employe (id, name, birtday, email) values (1, 'Rosemarie', '1958-03-29', 'rbirkby0@list-manage.com');
+insert into employe (id, name, birtday, email) values (2, 'Minny', '1965-07-06', 'mlanning1@usda.gov');
+insert into employe (id, name, birtday, email) values (3, 'Cammi', '1983-10-22', 'ccaldecot2@hao123.com');
+insert into employe (id, name, birtday, email) values (4, 'Brigham', '1966-11-30', 'bwoodison3@elpais.com');
+insert into employe (id, name, birtday, email) values (5, 'Dynah', '1968-03-07', 'dmatthisson4@vistaprint.com');
+insert into employe (id, name, birtday, email) values (6, 'Barnaby', '1901-08-23', 'bhedin5@1688.com');
+insert into employe (id, name, birtday, email) values (7, 'Nesta', '1947-01-24', 'njoannic6@barnesandnoble.com');
+insert into employe (id, name, birtday, email) values (8, 'Leigh', '1902-08-01', 'lheinish7@dropbox.com');
+insert into employe (id, name, birtday, email) values (9, 'Carey', '1985-09-17', 'cmaccaffrey8@surveymonkey.com');
+insert into employe (id, name, birtday, email) values (10, 'Scarface', '1953-02-23', 'seckels9@slideshare.net');
+insert into employe (id, name, birtday, email) values (11, 'Daryl', '1952-08-10', 'dgimbarta@bloomberg.com');
+insert into employe (id, name, birtday, email) values (12, 'Sascha', '1992-02-13', 'sdelbergueb@amazon.com');
+insert into employe (id, name, birtday, email) values (13, 'Garreth', '1942-11-11', 'gquaintancec@paginegialle.it');
+insert into employe (id, name, birtday, email) values (14, 'Frazer', '2002-12-23', 'fweekesd@phoca.cz');
+insert into employe (id, name, birtday, email) values (15, 'Nicky', '2022-07-29', 'ndivere@biblegateway.com');
+insert into employe (id, name, birtday, email) values (16, 'Reine', '1951-10-27', 'rstariesf@blogger.com');
+insert into employe (id, name, birtday, email) values (17, 'Amye', '2012-07-27', 'aarmourg@discovery.com');
+insert into employe (id, name, birtday, email) values (18, 'Killie', '1998-11-28', 'kfirebraceh@i2i.jp');
+insert into employe (id, name, birtday, email) values (19, 'Nance', '1911-08-28', 'nomulleni@economist.com');
+insert into employe (id, name, birtday, email) values (20, 'Sayer', '1989-06-12', 'srousej@myspace.com');
+insert into employe (id, name, birtday, email) values (21, 'Celestia', '1924-11-01', 'cdosedalek@irs.gov');
+insert into employe (id, name, birtday, email) values (22, 'Corly', '1902-06-01', 'ckubalekl@quantcast.com');
+insert into employe (id, name, birtday, email) values (23, 'Garrott', '1928-08-30', 'gfawcusm@mediafire.com');
+insert into employe (id, name, birtday, email) values (24, 'Augie', '2016-09-18', 'acorbenn@desdev.cn');
+insert into employe (id, name, birtday, email) values (25, 'Nicolais', '1967-12-26', 'ncashello@google.es');
+insert into employe (id, name, birtday, email) values (26, 'Abbey', '1935-10-31', 'aparadisp@jalbum.net');
+insert into employe (id, name, birtday, email) values (27, 'Alonzo', '2001-05-05', 'asecombeq@blog.com');
+insert into employe (id, name, birtday, email) values (28, 'Sharity', '1964-11-11', 'sedmonsr@artisteer.com');
+insert into employe (id, name, birtday, email) values (29, 'Lorne', '2011-07-19', 'lglynnes@typepad.com');
+insert into employe (id, name, birtday, email) values (30, 'Bar', '1912-04-18', 'braratyt@aboutads.info');
+insert into employe (id, name, birtday, email) values (31, 'Dewey', '1965-08-08', 'dadolthineu@taobao.com');
+insert into employe (id, name, birtday, email) values (32, 'Michal', '2017-01-23', 'mkissackv@naver.com');
+insert into employe (id, name, birtday, email) values (33, 'Lonnard', '1906-07-13', 'lsturzakerw@linkedin.com');
+insert into employe (id, name, birtday, email) values (34, 'Amity', '2015-06-26', 'ascannellx@reddit.com');
+insert into employe (id, name, birtday, email) values (35, 'Valentin', '1971-07-10', 'vheinsiusy@aol.com');
+insert into employe (id, name, birtday, email) values (36, 'Elena', '1952-02-21', 'eboonz@admin.ch');
+insert into employe (id, name, birtday, email) values (37, 'Haily', '1930-07-18', 'hweedall10@gmpg.org');
+insert into employe (id, name, birtday, email) values (38, 'Jocelin', '1901-01-29', 'jdashper11@nbcnews.com');
+insert into employe (id, name, birtday, email) values (39, 'Kale', '1988-04-28', 'kpinchin12@wordpress.com');
+insert into employe (id, name, birtday, email) values (40, 'Harriette', '1996-07-24', 'hlessmare13@elpais.com');
+insert into employe (id, name, birtday, email) values (41, 'Jeralee', '2002-06-05', 'jpenquet14@youtube.com');
+insert into employe (id, name, birtday, email) values (42, 'Gorden', '1955-04-08', 'gwrightson15@wiley.com');
+insert into employe (id, name, birtday, email) values (43, 'Caesar', '1919-04-01', 'chorbart16@nationalgeographic.com');
+insert into employe (id, name, birtday, email) values (44, 'Morley', '1926-03-28', 'mbesnardeau17@indiatimes.com');
+insert into employe (id, name, birtday, email) values (45, 'Lannie', '1931-12-27', 'lcritten18@senate.gov');
+insert into employe (id, name, birtday, email) values (46, 'Jessee', '1949-11-28', 'jellesmere19@hao123.com');
+insert into employe (id, name, birtday, email) values (47, 'Lyman', '1940-06-11', 'lwestell1a@weibo.com');
+insert into employe (id, name, birtday, email) values (48, 'Aviva', '2013-02-23', 'aubsdell1b@apache.org');
+insert into employe (id, name, birtday, email) values (49, 'Malvin', '1945-12-30', 'myeardsley1c@edublogs.org');
+insert into employe (id, name, birtday, email) values (50, 'Marijo', '1940-07-07', 'mtunkin1d@photobucket.com');
+
+
+update employe 
+set 
+    name = 'AA' 
+where id =10;
+
+
+update employe 
+set 
+	email ='adil@gmail.com' ,name ='adil'
+where id between 10 and 15;
+
+
+
+delete from employe 
+where id between 10 and 15;
+
+delete from employe 
+where  name like 'C%';
